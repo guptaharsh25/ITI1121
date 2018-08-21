@@ -1,0 +1,1 @@
+Name: Harsh GuptaStudent #: 300042828ITI1121 Lab 10 QuizAnswer: 2 - Adding an element at the first position is always fast.

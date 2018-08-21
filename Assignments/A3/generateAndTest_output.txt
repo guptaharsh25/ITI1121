@@ -1,0 +1,67 @@
+331776
+------------------------------
+[GREEN, BLUE, WHITE, RED, BLUE, GREEN]
+[WHITE, GREEN, BLUE, WHITE, RED, RED]
+[RED, WHITE, RED, BLUE, GREEN, RED]
+[BLUE, RED, GREEN, GREEN, WHITE, WHITE]
+
+This solution is valid.
+------------------------------
+------------------------------
+[GREEN, BLUE, BLUE, WHITE, RED, GREEN]
+[WHITE, RED, GREEN, BLUE, WHITE, RED]
+[RED, GREEN, WHITE, RED, BLUE, RED]
+[BLUE, WHITE, RED, GREEN, GREEN, WHITE]
+
+This solution is valid.
+------------------------------
+------------------------------
+[GREEN, RED, BLUE, BLUE, WHITE, GREEN]
+[WHITE, WHITE, RED, GREEN, BLUE, RED]
+[RED, BLUE, GREEN, WHITE, RED, RED]
+[BLUE, GREEN, WHITE, RED, GREEN, WHITE]
+
+This solution is valid.
+------------------------------
+------------------------------
+[GREEN, WHITE, RED, BLUE, BLUE, GREEN]
+[WHITE, BLUE, WHITE, RED, GREEN, RED]
+[RED, RED, BLUE, GREEN, WHITE, RED]
+[BLUE, GREEN, GREEN, WHITE, RED, WHITE]
+
+This solution is valid.
+------------------------------
+------------------------------
+[GREEN, BLUE, BLUE, RED, WHITE, GREEN]
+[RED, GREEN, RED, WHITE, BLUE, WHITE]
+[RED, WHITE, GREEN, BLUE, RED, RED]
+[WHITE, RED, WHITE, GREEN, GREEN, BLUE]
+
+This solution is valid.
+------------------------------
+------------------------------
+[GREEN, WHITE, BLUE, BLUE, RED, GREEN]
+[RED, BLUE, GREEN, RED, WHITE, WHITE]
+[RED, RED, WHITE, GREEN, BLUE, RED]
+[WHITE, GREEN, RED, WHITE, GREEN, BLUE]
+
+This solution is valid.
+------------------------------
+------------------------------
+[GREEN, RED, WHITE, BLUE, BLUE, GREEN]
+[RED, WHITE, BLUE, GREEN, RED, WHITE]
+[RED, BLUE, RED, WHITE, GREEN, RED]
+[WHITE, GREEN, GREEN, RED, WHITE, BLUE]
+
+This solution is valid.
+------------------------------
+------------------------------
+[GREEN, BLUE, RED, WHITE, BLUE, GREEN]
+[RED, RED, WHITE, BLUE, GREEN, WHITE]
+[RED, GREEN, BLUE, RED, WHITE, RED]
+[WHITE, WHITE, GREEN, GREEN, RED, BLUE]
+
+This solution is valid.
+------------------------------
+
+Process finished with exit code 0

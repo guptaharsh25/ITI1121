@@ -1,0 +1,96 @@
+...
+
+
+
+
+How many cards do you want to play with?
+Enter an even number between 2 and 52: 4
+Shuffling the deck...
+
+Press enter to continue.
+
+Ready to play ...
+
+* * * * 
+1 2 3 4
+
+Enter two distinct positions on the board that you want revealed.
+i.e two integers in the range [1, 4]
+Enter position 1: 1
+Enter position 2: 2
+
+
+B A * * 
+1 2 3 4
+
+Press enter to continue.
+
+* * * * 
+1 2 3 4
+
+Enter two distinct positions on the board that you want revealed.
+i.e two integers in the range [1, 4]
+Enter position 1: -1
+Enter position 2: -1
+One of both of your chosen positions is out of range.
+Please try again. This guess did not count. You current number of guesses is 1.
+
+Enter two distinct positions on the board that you want revealed.
+i.e two integers in the range [1, 4]
+Enter position 1: 0
+Enter position 2: 5
+One of both of your chosen positions is out of range.
+Please try again. This guess did not count. You current number of guesses is 1.
+
+Enter two distinct positions on the board that you want revealed.
+i.e two integers in the range [1, 4]
+Enter position 1: 1
+Enter position 2: 22
+One of both of your chosen positions is out of range.
+Please try again. This guess did not count. You current number of guesses is 1.
+
+Enter two distinct positions on the board that you want revealed.
+i.e two integers in the range [1, 4]
+Enter position 1: 2
+Enter position 2: 4
+
+
+* A * A 
+1 2 3 4
+
+Press enter to continue.
+
+Enter two distinct positions on the board that you want revealed.
+i.e two integers in the range [1, 4]
+Enter position 1: 2
+Enter position 2: 5
+One of both of your chosen positions is out of range.
+Please try again. This guess did not count. You current number of guesses is 2.
+
+Enter two distinct positions on the board that you want revealed.
+i.e two integers in the range [1, 4]
+Enter position 1: 2
+Enter position 2: 4
+One or both of your chosen positions has already been paired.
+Please try again. This guess did not count. You current number of guesses is 2.
+
+Enter two distinct positions on the board that you want revealed.
+i.e two integers in the range [1, 4]
+Enter position 1: 2
+Enter position 2: 2
+One or both of your chosen positions has already been paired.
+You chose the same positions.
+Please try again. This guess did not count. You current number of guesses is 2.
+
+Enter two distinct positions on the board that you want revealed.
+i.e two integers in the range [1, 4]
+Enter position 1: 4
+Enter position 2: -100
+One of both of your chosen positions is out of range.
+Please try again. This guess did not count. You current number of guesses is 2.
+
+Enter two distinct positions on the board that you want revealed.
+i.e two integers in the range [1, 4]
+Enter position 1:
+
+etc

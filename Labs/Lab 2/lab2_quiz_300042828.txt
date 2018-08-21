@@ -1,0 +1,1 @@
+Name: Harsh GuptaStudent #: 300042828Lab Section: C-5Lab 2 - QuizAnswer:    Produces a run-time error:        Exception in thread "main" java.lang.NullPointerException        at Quiz.main(Quiz.java:4)

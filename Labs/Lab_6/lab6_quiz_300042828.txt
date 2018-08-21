@@ -1,0 +1,9 @@
+Name: Harsh GuptaStudent #: 300042828Lab 6 QuizAnswer:	The last element is the element on top.There are null placeholders in the stack (if there are no 
+elements in the stack, the placeholder is null). After a
+stack element is popped, the position of the popped element
+in the stack points to null, it is just not shown here
+because we don’t know the length of the array or linked list
+used in this stack.Line 1: s = {8}Line 2: s = {8, 6}Line 3: num = 6; s = {8}Line 4: s = {8, 3}Line 5: s = {8, 3, 4}Line 6: s = {8, 3, 4, 15}Line 7: s = {8, 3, 4, 15, 12}Line 8: s = {8, 3, 4, 15}
+// s.pop() is not stored anywhere.
+// Thus, the topmost element is simply removed and not stored.
+// Similar steps occur for the next few lines.Line 9: s = {8, 3, 4}Line 10: s = {8, 3}Line 11: s = {8, 3, 19}
